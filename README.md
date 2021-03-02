@@ -1,8 +1,12 @@
 ## Links: 
 
-1.  **Figma Project**
+1.  **Figma**
     
     https://www.figma.com/file/N0HuEB0o1aLmurqQo5GriR/Eduweb-Gatsby?node-id=25%3A55
+    
+2. **Project based on the course:**
+
+    https://eduweb.pl/programowanie-i-www/reactjs/gatsby-generator-react
 
 ## 🚀 Quick start
 
